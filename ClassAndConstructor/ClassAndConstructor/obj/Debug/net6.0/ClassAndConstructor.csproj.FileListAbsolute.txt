@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/bin/Debug/net6.0/ClassAndConstructor
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/bin/Debug/net6.0/ClassAndConstructor.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/bin/Debug/net6.0/ClassAndConstructor.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/bin/Debug/net6.0/ClassAndConstructor.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/bin/Debug/net6.0/ClassAndConstructor.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/refint/ClassAndConstructor.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ClassAndConstructor.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm5/ClassAndConstructor/ClassAndConstructor/obj/Debug/net6.0/ref/ClassAndConstructor.dll

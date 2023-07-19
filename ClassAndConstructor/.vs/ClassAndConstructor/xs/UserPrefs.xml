@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1390CBDC-8646-4265-9531-EFAF2C22B944}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassAndConstructor/Program.cs">
+    <Files>
+      <File FileName="ClassAndConstructor/Program.cs" Line="56" Column="11" />
+      <File FileName="ClassAndConstructor/Models/Account.cs" Line="7" Column="20" />
+      <File FileName="ClassAndConstructor/Models/Calculator.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassAndConstructor" expanded="True">
+            <Node name="ClassAndConstructor" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClassAndConstructor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

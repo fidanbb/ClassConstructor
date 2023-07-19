@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{915CC2F6-77A2-481A-B0F3-6A4BEB35DBE6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ClassWorkConstructor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWorkConstructor/Program.cs">
+    <Files>
+      <File FileName="ClassWorkConstructor/Program.cs" Line="127" Column="33" />
+      <File FileName="ClassWorkConstructor/Models/Student.cs" Line="14" Column="1" />
+      <File FileName="ClassWorkConstructor/Models/Employee.cs" Line="17" Column="11" />
+      <File FileName="ClassWorkConstructor/Models/Book.cs" Line="13" Column="5" />
+      <File FileName="ClassWorkConstructor/Models/Product.cs" Line="26" Column="38" />
+      <File FileName="ClassWorkConstructor/Models/User.cs" Line="6" Column="17" />
+      <File FileName="ClassWorkConstructor/Calculator.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWorkConstructor" expanded="True">
+            <Node name="ClassWorkConstructor" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
